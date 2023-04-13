@@ -18,7 +18,7 @@ const Footer = () => {
       <a
         target="_blank"
         style={{ color: "black" }}
-        href="https://github.com/Shamir-Mateo/election-ethereum-react-dapp"
+        href="https://github.com/Shamir-Mateo/ethereum-electron-react-app"
       >
         <Icon name="github"></Icon>
       </a>
