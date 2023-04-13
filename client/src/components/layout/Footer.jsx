@@ -9,16 +9,16 @@ const Footer = () => {
       <a
         target="_blank"
         style={{ color: "black" }}
-        href="https://schadokar.dev"
+        href="https://Shamir-Mateo.dev"
       >
-        schadokar
+        Shamir-Mateo
       </a>{" "}
       <br />
       Please support the project at{" "}
       <a
         target="_blank"
         style={{ color: "black" }}
-        href="https://github.com/schadokar/election-ethereum-react-dapp"
+        href="https://github.com/Shamir-Mateo/election-ethereum-react-dapp"
       >
         <Icon name="github"></Icon>
       </a>
